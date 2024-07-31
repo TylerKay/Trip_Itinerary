@@ -38,44 +38,52 @@ TRAVEL ITINERARY:
 	- "6:00pm: Eat dinner in an area like Shinjuku, Ginza, Marunouchi or someplace close to your hotel. See the relevant district pages for recommendations."
 
 - Day 2 (Aug 12th): - TOKYO
-	- Imperial Palace
-
-	- Ginza District
-		- Shopping
+	- Imperial Palace (1 hour)
+	- Takeshita street (Shibuya area) (2-3 hours)
+		- Pokemon center
 
 	Evening:
-
+	- teamLab planets (~ 3 hours to look around)
 	- Stay in capsule hotel
 
 
 ------------------- KYOTO --------------------------
+A lot of this itinerary inspired by https://www.nomadasaurus.com/3-days-in-kyoto-itinerary/
 
 - Day 3 (Aug 13th): - KYOTO. Make way to Kyoto.
-	- Shinkansen train (2 hours)
+	- Shinkansen train (2 hours) - Morning train
+	- Check-in to hotel
+	- 11 am – Menbakaichida Fire Ramen – Lunch
+	- Nijo Castle (~2 hours)
+	- 3pm – Nishiki Market. Opens from 9am-6pm.
 
 - Day 4 (Aug 14th): - KYOTO
-	- Fushimi Inari shrine. Visit early to beat crowds. (1-2 hours).
+	- Fushimi Inari shrine. Visit early to beat crowds. Open 24/7. (1-2 hours)
 		- "You should spend about 2 hours if you want to go to the top or less (about 1 hour) if you just go to the intersection to see the view."
-
+	- Kiyomizu Dera Temple (2 hours).
+	- Lunch 
+		- There are plenty of options for great restaurants for lunch around Fushimi Inari Shrine.
+		If you’re in the mood for sushi, Kyoto Train Station, has a great sushi train option, Ashami
+	- Toji Temple (2 hours)
+	- Ginkaku Temple - Silver Pavillion
 
 - Day 5 (Aug 15th): - KYOTO
-	- Arashimaya (nature). One of the most popular locations in Kyoto
+	- Arashimaya (nature). One of the most popular locations in Kyoto. (you have to cross Togetukyo Bridge to get here)
 		- Bamboo forest. - Ariashiyama Bamboo Grove. Come early to beat crowds. Open 24/7. (1 hour)
+	- Togetsukyō Bridge (1 hour)
+	- Tenryuji Temple (1 hour)
+		"Have Some Snack at Food Street
+		Try the traditional Kyoto yudofu". https://www.mytravelbuzzg.com/day-trip-to-arashiyama-itinerary/
+	- Ryoanji Temple and Lunch (3 hours)
 
-		- Tenryuji Temple (1 hour)
-			"Have Some Snack at Food Street
-			Try the traditional Kyoto yudofu". https://www.mytravelbuzzg.com/day-trip-to-arashiyama-itinerary/
-		- Senkoji Temple (short hike). Scenic views.
+	- Kinkaku-ji (Golden Pavillion). One of the most popular buildings in Japan. Opens at 9am. (1 hour)
 
-	- Kinkaku-ji (Golden Pavillion). One of the most popular buildings in Japan. Opens at 9am
+	- Senkoji Temple (short hike). Scenic views. (1-2 hours)
 
 - Day 6 (Aug 16th): - MAKE WAY BACK TO TOKYO. Tokyo day ig
-	- Make way back to Tokyo
-	- Takeshita street (Shibuya area)
-		- Pokemon center
-	- Tokyo evening:
-		- teamLab planets (~ 3 hours to look around)
-
+	- Make way back to Tokyo (2 hour commute time)
+	- Ginza District
+		- Shopping
 
 
 
@@ -92,13 +100,11 @@ Suggested additions in Kyoto:
 
 	- Yasaka Pagoda
 		- Hokan-ji Temple
-	- Nishiki Market (food)
-	
+
 	Temples
 	- Nanzen-ji temple
 	- Eikan-do temple
 	- Yasaka Shrine
-	- Kiyomizu-Dera temple
 
 	Food
 	- Pontocho (food).
@@ -107,6 +113,7 @@ Suggested additions in Kyoto:
 
 
 To-dos:
+- finish filling in gaps
 - Reserve teamLab tickets and time
 - make capsule reservation for Aug 12th.
 - research foods to eat

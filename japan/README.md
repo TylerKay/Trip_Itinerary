@@ -161,3 +161,38 @@
 - [ ] Make capsule reservation for Aug 12th.
 - [ ] Research foods to eat
 - [ ] Download offline google maps for Tokyo & Kyoto
+
+
+
+
+#### Food resources
+- Sushi
+  - Tsukiji fish market
+  - Sushi no Midori (Ginza/Akasaka area): A very popular sushi restaurant with multiple locations in Tokyo (Ginza, Akasaka, and Shibuya etc). They serve good quality sushi at a reasonable price, and you definitely need to make reservations or wait in line. Avoid weekends and peak times (e.g. 12 pm and 7 pm etc).
+  
+  - Mantenzushi (Tokyo station and Nihonbashi): They serve two dozens sushi pieces and small dishes for only 6,800 JPY for their omakase sushi course. It used to be pretty popular only among locals, but now you will see a lot of foreign visitors. 
+
+
+
+- Ramen
+  - Ramen has regional differences
+    - In Kyoto, though, you will see a lot of Tonkotsu, pork broth ramen. Tonkotsu is not originally from Kyoto, but as a big college town, Tonkotsu ramen is quite popular for college students as well as locals.
+    - if you go to Hokkaido, you will see miso (fermented soybean) ramen and ramen with butter and corn as toppings
+    - There are more than 20 ramen shops in this small neighborhood, including the main store of Tenkaippin, now a nationwide ramen chain from Kyoto.
+
+  - Sugari (Karasuma): 
+    - Another famous and popular ramen restaurant in downtown Kyoto. They renovated Machiya, an old Japanese house, and turned it into a ramen bar/restaurant. They serve wagyu beef ramen as well as intestine ramen, which is quite good.
+
+- Okonomiyaki
+- Shirouo (transparent fish that dances in mouth)
+- Tsukune (Chicken meatballs)
+- Wagashi (Japanese sweets)
+- Chicken sashimi
+- Unagi (eel)
+
+
+- Websites
+  - https://www.ninjafoodtours.com/tokyo-food-guide/#:~:text=Tokyo%20Food%20Guide%202023%3A%20Top%205%20Foods%20You,savory%20pancakes%29%20...%205%205.%20Soba%20noodles%20
+  - https://www.japan-guide.com/e/e3075.html 
+
+  - https://www.ninjafoodtours.com/kyoto-food-guide/

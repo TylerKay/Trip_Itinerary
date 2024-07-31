@@ -9,30 +9,45 @@ Transportation Notes:
 	- IC card - Can be used for a lot. Not only for trains but also storage, vending machines.
 
 TRAVEL ITINERARY:
+
+---------------- TOKYO -------------------
 - Day 0 (arrival day. Aug 10th):
 	- Rainbow bridge (night-time)
 		- Next to hotel (Shinagawa Prince)
 
 - Day 1 (Aug 11th):
-	Central-ish
-	- Meiji Shrine (popular)
+	Morning:
+	- Sensoji temple. Most popular attraction. Get there early
+		- Recommended time: 1 hour
+	- Ueno Park (usually paired with Sensoji temple)
+		"Visit the wonderful Tokyo National Museum, Ueno-koen Park and Tosho-gu Shrine and then make your way back to the station."	
 
+
+	Evening:
 	- Akihabara - famous electric town
 		- Famous for anime, cosplay
 		- Donquijote (weird stuff and souvinirs)
-
 	- Shibuya
 		- Shibuya crossing
+
+	- "6:00pm: Eat dinner in an area like Shinjuku, Ginza, Marunouchi or someplace close to your hotel. See the relevant district pages for recommendations."
+
+	Central-ish
+	- Meiji Shrine (popular)
 
 	- Tokyo Skytree
 
 - Day 2 (Aug 12th): - TOKYO
-	- Sensoji temple. Most popular attraction. Get there early
+	- Imperial Palace
+	- Ginza District
+		- Shopping
 
-	- Imperial Palace	
-	
-	North-ish:
-	- Ueno Park
+	Evening:
+
+	- Stay in capsule hotel
+
+
+-------------------KYOTO--------------------------
 
 - Day 3 (Aug 13th): - KYOTO. Make way to Kyoto.
 	- 
@@ -83,3 +98,10 @@ Suggested additions in Kyoto:
 	Food
 	- Pontocho (food).
 	- Ramen sen no Kaze (Tonokatsu Ramen). Busy place tho.
+
+
+
+To-dos:
+- Reserve teamLab tickets and time
+- make capsule reservation for Aug 12th.
+- research foods to eat

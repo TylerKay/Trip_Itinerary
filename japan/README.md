@@ -27,18 +27,15 @@
 
 #### Day 1 (Aug 11th):
 - **Morning:**
-  - Sensoji temple. Most popular attraction. Get there early
+  - ##### Sensoji temple
+    - Most popular attraction. Get there early
     - Recommended time: 1 hour
-  - Ueno Park (usually paired with Sensoji temple). Ueno Park (2-3 hours)
-    - "Visit the wonderful Tokyo National Museum, Ueno-koen Park and Tosho-gu Shrine and then make your way back to the station."
-
-- **Evening:**
-  - Akihabara - famous electric town (Some say 2-3 hours. Some say half a day).
-    - Famous for anime, cosplay
-    - Donquijote (weird stuff and souvenirs)
+    - Hotel -> Sensoji temple = ~35 minutes.
 
 - **Central-ish**
   - Meiji Shrine (popular). Between Shinjuku and Shibuya. (1 hour)
+  - Takeshita street (Shibuya area) (2-3 hours)
+    - Pokemon center
   - Shibuya
     - Shibuya crossing
 
@@ -47,10 +44,16 @@
 #### Day 2 (Aug 12th):
 - **Morning:**
   - Imperial Palace (1 hour)
+  
+  - Akihabara - famous electric town (Some say 2-3 hours. Some say half a day).
+    - Famous for anime, cosplay
+    - Donquijote (weird stuff and souvenirs)
+
+  - ##### Ueno Park (usually paired with Sensoji temple). Ueno Park (2-3 hours)
+    - "Visit the wonderful Tokyo National Museum, Ueno-koen Park and Tosho-gu Shrine and then make your way back to the station."
 
 - **Afternoon:**
-  - Takeshita street (Shibuya area) (2-3 hours)
-    - Pokemon center
+
 
 - **Evening:**
   - teamLab planets (~3 hours to look around). Reserved for 5pm.

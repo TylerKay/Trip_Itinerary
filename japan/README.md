@@ -27,23 +27,10 @@
 
 #### Day 1 (Aug 11th):
 - **Morning:**
-  - ##### Sensoji temple
-    - Most popular attraction. Get there early
-    - Recommended time: 1 hour
-    - Hotel -> Sensoji temple = ~35 minutes.
-
-- **Central-ish**
-  - Meiji Shrine (popular). Between Shinjuku and Shibuya. (1 hour)
-  - Takeshita street (Shibuya area) (2-3 hours)
-    - Pokemon center
-  - Shibuya
-    - Shibuya crossing
-
-  - "6:00pm: Eat dinner in an area like Shinjuku, Ginza, Marunouchi or someplace close to your hotel. See the relevant district pages for recommendations."
-
-#### Day 2 (Aug 12th):
-- **Morning:**
   - Imperial Palace (1 hour)
+  - Meiji Shrine (popular). Between Shinjuku and Shibuya. (1 hour)
+
+- **Afternoon:**
   
   - Akihabara - famous electric town (Some say 2-3 hours. Some say half a day).
     - Famous for anime, cosplay
@@ -52,12 +39,35 @@
   - ##### Ueno Park (usually paired with Sensoji temple). Ueno Park (2-3 hours)
     - "Visit the wonderful Tokyo National Museum, Ueno-koen Park and Tosho-gu Shrine and then make your way back to the station."
 
-- **Afternoon:**
 
 
-- **Evening:**
+#### Day 2 (Aug 12th):
+- **Morning:**
+  - ##### Sensoji temple
+    - Most popular attraction. Get there early
+    - Recommended time: 1 hour
+    - Hotel -> Sensoji temple = ~35 minutes.
+
+    #### Lunch at Shibuya (Umegaoka Sushi nomi dori Shibuya)
+    - Phone Number: 03-5458-0002
+    - Address: 1-12-3 Dogenzaka, Shibuya Mark City East Mall 4F, Shibuya, Tokyo 150-0043
+    - Eat lunch  (11am)
+    
+
+
+- **Central-ish**
+  - Takeshita street (Shibuya area) (2-3 hours)
+    - Pokemon center
+  - Shibuya
+    - Shibuya crossing
+
+  - "6:00pm: Eat dinner in an area like Shinjuku, Ginza, Marunouchi or someplace close to your hotel. See the relevant district pages for recommendations."
+
+  - **Evening:**
   - teamLab planets (~3 hours to look around). Reserved for 5pm.
   - Stay in capsule hotel
+
+
 
 #### Day 6 (Aug 16th):
 - **Morning:**
@@ -163,7 +173,7 @@
 - [x] Reserve teamLab tickets and time
 - [ ] Make capsule reservation for Aug 12th.
 - [ ] Research foods to eat
-- [ ] Download offline google maps for Tokyo & Kyoto
+- [x] Download offline google maps for Tokyo & Kyoto
 
 
 
